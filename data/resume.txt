@@ -1,0 +1,56 @@
+ROHAN PAGADALA
+Hyderabad, India | +91 9059828440 | rohan.pagadala15@gmail.com | linkedin.com/in/rohan-pagadala | github.com/rohanpagadala
+
+Education
+Chaitanya Bharathi Institute of Technology (CBIT) - Expected 2027
+B.E. Artificial Intelligence and Data Science, Hyderabad, India
+CGPA: 9.50 / 10
+
+Resonance Junior College - June 2023
+Intermediate (Class XII) — 97.4%, Hyderabad, India
+
+Gitanjali Devashray - March 2021
+High School (Class X) — 90%, Hyderabad, India
+
+Technical Skills
+Programming: Python, SQL, R, JavaScript
+AI/ML: YOLO, TensorFlow, Machine Learning, Deep Learning, Scikit-learn, Data Analysis & Visualization, Pandas, NumPy, Matplotlib, Seaborn
+Frameworks & Tools: FastAPI, Next.js, LangChain, FAISS, Git, BeautifulSoup, Jupyter Notebook
+Databases & Cloud: MySQL, MongoDB, Microsoft Azure, Streamlit Cloud
+
+Experience
+iHub-Data, IIIT Hyderabad - Summer Intern (May 2025 - August 2025)
+Hyderabad, India
+- Built a cataract detection pipeline from scratch using image preprocessing and classification techniques in Python and TensorFlow, enabling early-stage screening through automated analysis of ocular images.
+- Designed modular machine learning workflows using Scikit-learn, structuring experiments to allow faster iteration, comparison, and reproducibility across models.
+- Improved model reliability by handling data preprocessing and feature construction using NumPy and Pandas, leading to more consistent and generalizable predictions.
+
+Projects
+ML Cataract Analysis | GitHub
+Python, YOLOv11, TensorFlow, OpenCV, Computer Vision
+- Built a retinal-image cataract detection system using YOLOv11, TensorFlow, implementing image normalization, augmentation, and region-based learning to capture subtle cataract patterns under varying imaging conditions.
+- Conducted systematic experiments by tuning hyperparameters, input resolutions, training strategies, and analyzing misclassifications to understand model behavior on low-quality and noisy medical images.
+- Processed and validated datasets using annotation refinement, data splitting, precision-recall analysis, identifying error patterns through confusion trends to improve prediction consistency.
+
+EduDash — AI Powered Student Assistant | GitHub
+Next.js, FastAPI, MongoDB Atlas, LangChain, FAISS, Gemini AI, Firebase
+- Developed a multi-user academic platform using Next.js, FastAPI, MongoDB Atlas, structuring backend APIs and frontend flows to handle assignments, user roles, and live updates across student-teacher interactions.
+- Built an AI query system with LangChain, FAISS, Sentence Transformers, Gemini AI, enabling retrieval of relevant academic context and generating grounded responses from stored course content.
+- Designed authentication and session handling using Firebase, Google OAuth, JWT, managing user identity, protected routes, and consistent access control across different user roles.
+
+Smart Cart — Product Price Comparison App | GitHub
+Python, SerpAPI, FastAPI, MongoDB Atlas, Firebase
+- Built a price comparison system integrating SerpAPI, FastAPI, MongoDB Atlas, aggregating real-time product data from 50+ retailers and structuring responses for fast multi-platform search.
+- Designed a recommendation engine using weighted scoring (price vs rating) and filtering logic, improving best-deal selection with custom ranking algorithms and data normalization.
+- Developed user features with Firebase Authentication, JWT, React, TypeScript, enabling secure login, search history tracking, and analytics-driven insights into user activity.
+
+Certifications
+Salesforce Certified Agentforce Specialist | Salesforce (2026)
+Microsoft Azure Data Fundamentals (DP-900) | Microsoft (2025)
+MongoDB Associate Developer | MongoDB (2025)
+GitHub Foundations | GitHub (2025)
+Microsoft Azure AI Fundamentals (AI-900) | Microsoft (2024)
+
+Leadership & Activities
+CBITOSC Hackweek — 4th Place
+Treasurer & Junior Coordinator — Engineers Without Borders (EWB), CBIT

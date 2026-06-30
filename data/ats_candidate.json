@@ -1,0 +1,27 @@
+{
+  "candidate_details": {
+    "first_name": "Rohan",
+    "last_name": "Pagadala",
+    "contact": {
+      "mail": "rohan.pagadala15@gmail.com",
+      "telephone": "+91 9059828440"
+    }
+  },
+  "jobs": [
+    {
+      "company_name": "iHub-Data, IIIT Hyderabad",
+      "role_title": "Summer Intern",
+      "from_date": "2025-05",
+      "to_date": "2025-08",
+      "responsibilities": "Cataract detection pipeline development"
+    }
+  ],
+  "academic_history": [
+    {
+      "school": "Chaitanya Bharathi Institute of Technology (CBIT)",
+      "degree_earned": "B.E.",
+      "major": "Artificial Intelligence and Data Science",
+      "grad_year": "2027"
+    }
+  ]
+}

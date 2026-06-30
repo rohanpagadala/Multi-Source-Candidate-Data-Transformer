@@ -1,0 +1,4 @@
+Candidate: Rohan Pagadala
+Email: rohan.pagadala15@gmail.com
+Phone: +91 9059828440
+Notes: Interviewed Rohan today. He has solid experience in machine learning, Python, and FastAPI. Mentioned he knows FAISS and LangChain from a academic project. He is looking for a Summer Intern role. Previous company is iHub-Data, IIIT Hyderabad.

@@ -1,0 +1,19 @@
+{
+  "username": "rohanpagadala",
+  "github_url": "https://github.com/rohanpagadala",
+  "name": "Rohan Pagadala",
+  "bio": "AI & Data Science Student at CBIT. FastAPI, Next.js, TensorFlow.",
+  "repositories": [
+    {
+      "name": "ML-Cataract-Analysis",
+      "stars": 4,
+      "languages": ["Python", "HTML"]
+    },
+    {
+      "name": "EduDash",
+      "stars": 5,
+      "languages": ["JavaScript", "HTML"]
+    }
+  ],
+  "languages": ["Python", "JavaScript", "HTML", "R"]
+}

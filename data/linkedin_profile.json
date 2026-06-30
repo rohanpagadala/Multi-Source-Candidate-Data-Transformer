@@ -1,0 +1,23 @@
+{
+  "name": "Rohan Pagadala",
+  "headline": "B.E. Student at CBIT | AI & Data Science",
+  "linkedin_url": "https://linkedin.com/in/rohan-pagadala",
+  "experience": [
+    {
+      "company": "iHub-Data, IIIT Hyderabad",
+      "title": "Summer Intern",
+      "start_date": "2025-05",
+      "end_date": "2025-08",
+      "description": "Ocular disease classification model development."
+    }
+  ],
+  "education": [
+    {
+      "school": "Chaitanya Bharathi Institute of Technology",
+      "degree": "B.E.",
+      "field_of_study": "Artificial Intelligence and Data Science",
+      "end_year": "2027"
+    }
+  ],
+  "skills": ["Python", "Machine Learning", "TensorFlow", "FastAPI", "Next.js", "LangChain", "FAISS", "Git", "MongoDB", "MySQL"]
+}

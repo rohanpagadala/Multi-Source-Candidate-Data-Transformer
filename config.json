@@ -1,0 +1,12 @@
+{
+  "fields": [
+    { "path": "full_name", "type": "string", "required": true },
+    { "path": "primary_email", "from": "emails[0]", "type": "string", "required": true },
+    { "path": "phone", "from": "phones[0]", "type": "string", "normalize": "E164" },
+    { "path": "skills", "from": "skills[].name", "type": "string[]", "normalize": "canonical" },
+    { "path": "projects", "type": "object[]" },
+    { "path": "certifications", "type": "object[]" }
+  ],
+  "include_confidence": true,
+  "on_missing": "null"
+}
