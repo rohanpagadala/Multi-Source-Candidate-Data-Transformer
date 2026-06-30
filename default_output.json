@@ -1,0 +1,910 @@
+[
+  {
+    "candidate_id": "rohanpagadala15",
+    "full_name": "ROHAN PAGADALA",
+    "emails": [
+      "rohan.pagadala15@gmail.com"
+    ],
+    "phones": [
+      "+919059828440"
+    ],
+    "location": {
+      "city": "",
+      "region": "",
+      "country": ""
+    },
+    "links": {
+      "linkedin": "https://linkedin.com/in/rohan-pagadala",
+      "github": "https://github.com/rohanpagadala",
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "B.E. Student at CBIT | AI & Data Science",
+    "years_experience": 0.2,
+    "skills": [
+      {
+        "name": "Python",
+        "confidence": 1.0,
+        "sources": [
+          "github_profile.json",
+          "linkedin_profile.json",
+          "recruiter_notes.txt",
+          "resume.txt"
+        ]
+      },
+      {
+        "name": "Javascript",
+        "confidence": 0.9,
+        "sources": [
+          "github_profile.json",
+          "resume.txt"
+        ]
+      },
+      {
+        "name": "SQL",
+        "confidence": 0.8,
+        "sources": [
+          "resume.txt"
+        ]
+      },
+      {
+        "name": "Git",
+        "confidence": 0.9,
+        "sources": [
+          "linkedin_profile.json",
+          "resume.txt"
+        ]
+      },
+      {
+        "name": "Machine Learning",
+        "confidence": 1.0,
+        "sources": [
+          "linkedin_profile.json",
+          "recruiter_notes.txt",
+          "resume.txt"
+        ]
+      },
+      {
+        "name": "Deep Learning",
+        "confidence": 0.8,
+        "sources": [
+          "resume.txt"
+        ]
+      },
+      {
+        "name": "Pandas",
+        "confidence": 0.8,
+        "sources": [
+          "resume.txt"
+        ]
+      },
+      {
+        "name": "NumPy",
+        "confidence": 0.8,
+        "sources": [
+          "resume.txt"
+        ]
+      },
+      {
+        "name": "TensorFlow",
+        "confidence": 0.9,
+        "sources": [
+          "linkedin_profile.json",
+          "resume.txt"
+        ]
+      },
+      {
+        "name": "React",
+        "confidence": 0.8,
+        "sources": [
+          "resume.txt"
+        ]
+      },
+      {
+        "name": "Html",
+        "confidence": 0.8,
+        "sources": [
+          "github_profile.json"
+        ]
+      },
+      {
+        "name": "R",
+        "confidence": 0.8,
+        "sources": [
+          "github_profile.json"
+        ]
+      },
+      {
+        "name": "FastAPI",
+        "confidence": 0.8,
+        "sources": [
+          "linkedin_profile.json"
+        ]
+      },
+      {
+        "name": "Next.js",
+        "confidence": 0.8,
+        "sources": [
+          "linkedin_profile.json"
+        ]
+      },
+      {
+        "name": "LangChain",
+        "confidence": 0.9,
+        "sources": [
+          "linkedin_profile.json",
+          "recruiter_notes.txt"
+        ]
+      },
+      {
+        "name": "FAISS",
+        "confidence": 0.9,
+        "sources": [
+          "linkedin_profile.json",
+          "recruiter_notes.txt"
+        ]
+      },
+      {
+        "name": "MongoDB",
+        "confidence": 0.8,
+        "sources": [
+          "linkedin_profile.json"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "confidence": 0.8,
+        "sources": [
+          "linkedin_profile.json"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "iHub-Data, IIIT Hyderabad",
+        "title": "Summer Intern",
+        "start": "2025-05",
+        "end": "2025-08",
+        "summary": "iHub-Data, IIIT Hyderabad - Summer Intern (May 2025 - August 2025)\nCataract detection pipeline development\nCSV exported current role: Summer Intern at iHub-Data, IIIT Hyderabad\nOcular disease classification model development."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Chaitanya Bharathi Institute of Technology (CBIT)",
+        "degree": "B.E.",
+        "field": "Artificial Intelligence and Data Science",
+        "end_year": "2027"
+      },
+      {
+        "institution": "Resonance Junior College",
+        "degree": "June 2023",
+        "field": null,
+        "end_year": "2023"
+      },
+      {
+        "institution": "Intermediate (Class XII)",
+        "degree": "97.4%, Hyderabad, India",
+        "field": null,
+        "end_year": null
+      },
+      {
+        "institution": "Gitanjali Devashray",
+        "degree": "March 2021",
+        "field": null,
+        "end_year": "2021"
+      },
+      {
+        "institution": "High School (Class X)",
+        "degree": "90%, Hyderabad, India",
+        "field": null,
+        "end_year": null
+      }
+    ],
+    "projects": [
+      {
+        "name": "ML Cataract Analysis",
+        "description": "Built a retinal-image cataract detection system using YOLOv11, TensorFlow, implementing image normalization, augmentation, and region-based learning to capture subtle cataract patterns under varying imaging conditions. Conducted systematic experiments by tuning hyperparameters, input resolutions, training strategies, and analyzing misclassifications to understand model behavior on low-quality and noisy medical images. Processed and validated datasets using annotation refinement, data splitting, precision-recall analysis, identifying error patterns through confusion trends to improve prediction consistency.",
+        "technologies": [
+          "Computer Vision",
+          "HTML",
+          "OpenCV",
+          "Python",
+          "TensorFlow",
+          "YOLOv11"
+        ]
+      },
+      {
+        "name": "EduDash",
+        "description": "Developed a multi-user academic platform using Next.js, FastAPI, MongoDB Atlas, structuring backend APIs and frontend flows to handle assignments, user roles, and live updates across student-teacher interactions. Built an AI query system with LangChain, FAISS, Sentence Transformers, Gemini AI, enabling retrieval of relevant academic context and generating grounded responses from stored course content. Designed authentication and session handling using Firebase, Google OAuth, JWT, managing user identity, protected routes, and consistent access control across different user roles.",
+        "technologies": [
+          "FAISS",
+          "FastAPI",
+          "Firebase",
+          "Gemini AI",
+          "HTML",
+          "JavaScript",
+          "LangChain",
+          "MongoDB Atlas",
+          "Next",
+          "js"
+        ]
+      },
+      {
+        "name": "Smart Cart",
+        "description": "Built a price comparison system integrating SerpAPI, FastAPI, MongoDB Atlas, aggregating real-time product data from 50+ retailers and structuring responses for fast multi-platform search. Designed a recommendation engine using weighted scoring (price vs rating) and filtering logic, improving best-deal selection with custom ranking algorithms and data normalization. Developed user features with Firebase Authentication, JWT, React, TypeScript, enabling secure login, search history tracking, and analytics-driven insights into user activity.",
+        "technologies": [
+          "FastAPI",
+          "Firebase",
+          "MongoDB Atlas",
+          "Python",
+          "SerpAPI"
+        ]
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Salesforce Certified Agentforce Specialist",
+        "issuing_organization": "Salesforce",
+        "year": "2026"
+      },
+      {
+        "name": "Microsoft Azure Data Fundamentals (DP-900)",
+        "issuing_organization": "Microsoft",
+        "year": "2025"
+      },
+      {
+        "name": "MongoDB Associate Developer",
+        "issuing_organization": "MongoDB",
+        "year": "2025"
+      },
+      {
+        "name": "GitHub Foundations",
+        "issuing_organization": "GitHub",
+        "year": "2025"
+      },
+      {
+        "name": "Microsoft Azure AI Fundamentals (AI-900)",
+        "issuing_organization": "Microsoft",
+        "year": "2024"
+      }
+    ],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "resume.txt",
+        "method": "resume_first_line",
+        "confidence": 1.0,
+        "value": "ROHAN PAGADALA"
+      },
+      {
+        "field": "full_name",
+        "source": "ats_candidate.json",
+        "method": "ats_json_field",
+        "confidence": 0.7,
+        "value": "Rohan Pagadala"
+      },
+      {
+        "field": "full_name",
+        "source": "recruiter_export.csv",
+        "method": "csv_field",
+        "confidence": 0.7,
+        "value": "Rohan Pagadala"
+      },
+      {
+        "field": "full_name",
+        "source": "github_profile.json",
+        "method": "github_field",
+        "confidence": 0.5599999999999999,
+        "value": "Rohan Pagadala"
+      },
+      {
+        "field": "full_name",
+        "source": "linkedin_profile.json",
+        "method": "linkedin_field",
+        "confidence": 0.63,
+        "value": "Rohan Pagadala"
+      },
+      {
+        "field": "full_name",
+        "source": "recruiter_notes.txt",
+        "method": "notes_label",
+        "confidence": 0.48999999999999994,
+        "value": "Rohan Pagadala"
+      },
+      {
+        "field": "headline",
+        "source": "github_profile.json",
+        "method": "github_bio",
+        "confidence": 0.48999999999999994,
+        "value": "AI & Data Science Student at CBIT. FastAPI, Next.js, TensorFlow."
+      },
+      {
+        "field": "headline",
+        "source": "linkedin_profile.json",
+        "method": "linkedin_field",
+        "confidence": 0.9,
+        "value": "B.E. Student at CBIT | AI & Data Science"
+      },
+      {
+        "field": "github_link",
+        "source": "github_profile.json",
+        "method": "github_field",
+        "confidence": 1.0,
+        "value": "https://github.com/rohanpagadala"
+      },
+      {
+        "field": "linkedin_link",
+        "source": "linkedin_profile.json",
+        "method": "linkedin_field",
+        "confidence": 1.0,
+        "value": "https://linkedin.com/in/rohan-pagadala"
+      },
+      {
+        "field": "emails",
+        "source": "resume.txt",
+        "method": "regex_email",
+        "confidence": 1.0,
+        "value": "rohan.pagadala15@gmail.com"
+      },
+      {
+        "field": "emails",
+        "source": "ats_candidate.json",
+        "method": "ats_json_field",
+        "confidence": 1.0,
+        "value": "rohan.pagadala15@gmail.com"
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_export.csv",
+        "method": "csv_field",
+        "confidence": 1.0,
+        "value": "rohan.pagadala15@gmail.com"
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_notes.txt",
+        "method": "notes_email",
+        "confidence": 0.7,
+        "value": "rohan.pagadala15@gmail.com"
+      },
+      {
+        "field": "phones",
+        "source": "resume.txt",
+        "method": "regex_phone",
+        "confidence": 1.0,
+        "value": "+919059828440"
+      },
+      {
+        "field": "phones",
+        "source": "ats_candidate.json",
+        "method": "ats_json_field",
+        "confidence": 1.0,
+        "value": "+919059828440"
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_export.csv",
+        "method": "csv_field",
+        "confidence": 1.0,
+        "value": "+919059828440"
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_notes.txt",
+        "method": "notes_phone",
+        "confidence": 0.7,
+        "value": "+919059828440"
+      },
+      {
+        "field": "skills",
+        "source": "resume.txt",
+        "method": "taxonomy_keyword_match",
+        "confidence": 0.8,
+        "value": "Python"
+      },
+      {
+        "field": "skills",
+        "source": "resume.txt",
+        "method": "taxonomy_keyword_match",
+        "confidence": 0.8,
+        "value": "Javascript"
+      },
+      {
+        "field": "skills",
+        "source": "resume.txt",
+        "method": "taxonomy_keyword_match",
+        "confidence": 0.8,
+        "value": "SQL"
+      },
+      {
+        "field": "skills",
+        "source": "resume.txt",
+        "method": "taxonomy_keyword_match",
+        "confidence": 0.8,
+        "value": "Git"
+      },
+      {
+        "field": "skills",
+        "source": "resume.txt",
+        "method": "taxonomy_keyword_match",
+        "confidence": 0.8,
+        "value": "Machine Learning"
+      },
+      {
+        "field": "skills",
+        "source": "resume.txt",
+        "method": "taxonomy_keyword_match",
+        "confidence": 0.8,
+        "value": "Machine Learning"
+      },
+      {
+        "field": "skills",
+        "source": "resume.txt",
+        "method": "taxonomy_keyword_match",
+        "confidence": 0.8,
+        "value": "Deep Learning"
+      },
+      {
+        "field": "skills",
+        "source": "resume.txt",
+        "method": "taxonomy_keyword_match",
+        "confidence": 0.8,
+        "value": "Pandas"
+      },
+      {
+        "field": "skills",
+        "source": "resume.txt",
+        "method": "taxonomy_keyword_match",
+        "confidence": 0.8,
+        "value": "NumPy"
+      },
+      {
+        "field": "skills",
+        "source": "resume.txt",
+        "method": "taxonomy_keyword_match",
+        "confidence": 0.8,
+        "value": "TensorFlow"
+      },
+      {
+        "field": "skills",
+        "source": "resume.txt",
+        "method": "taxonomy_keyword_match",
+        "confidence": 0.8,
+        "value": "React"
+      },
+      {
+        "field": "skills",
+        "source": "github_profile.json",
+        "method": "github_languages",
+        "confidence": 0.8,
+        "value": "Python"
+      },
+      {
+        "field": "skills",
+        "source": "github_profile.json",
+        "method": "github_languages",
+        "confidence": 0.8,
+        "value": "Javascript"
+      },
+      {
+        "field": "skills",
+        "source": "github_profile.json",
+        "method": "github_languages",
+        "confidence": 0.8,
+        "value": "Html"
+      },
+      {
+        "field": "skills",
+        "source": "github_profile.json",
+        "method": "github_languages",
+        "confidence": 0.8,
+        "value": "R"
+      },
+      {
+        "field": "skills",
+        "source": "github_profile.json",
+        "method": "github_repo_languages",
+        "confidence": 0.8,
+        "value": "Python"
+      },
+      {
+        "field": "skills",
+        "source": "github_profile.json",
+        "method": "github_repo_languages",
+        "confidence": 0.8,
+        "value": "Html"
+      },
+      {
+        "field": "skills",
+        "source": "github_profile.json",
+        "method": "github_repo_languages",
+        "confidence": 0.8,
+        "value": "Javascript"
+      },
+      {
+        "field": "skills",
+        "source": "github_profile.json",
+        "method": "github_repo_languages",
+        "confidence": 0.8,
+        "value": "Html"
+      },
+      {
+        "field": "skills",
+        "source": "linkedin_profile.json",
+        "method": "linkedin_field",
+        "confidence": 0.8,
+        "value": "Python"
+      },
+      {
+        "field": "skills",
+        "source": "linkedin_profile.json",
+        "method": "linkedin_field",
+        "confidence": 0.8,
+        "value": "Machine Learning"
+      },
+      {
+        "field": "skills",
+        "source": "linkedin_profile.json",
+        "method": "linkedin_field",
+        "confidence": 0.8,
+        "value": "TensorFlow"
+      },
+      {
+        "field": "skills",
+        "source": "linkedin_profile.json",
+        "method": "linkedin_field",
+        "confidence": 0.8,
+        "value": "FastAPI"
+      },
+      {
+        "field": "skills",
+        "source": "linkedin_profile.json",
+        "method": "linkedin_field",
+        "confidence": 0.8,
+        "value": "Next.js"
+      },
+      {
+        "field": "skills",
+        "source": "linkedin_profile.json",
+        "method": "linkedin_field",
+        "confidence": 0.8,
+        "value": "LangChain"
+      },
+      {
+        "field": "skills",
+        "source": "linkedin_profile.json",
+        "method": "linkedin_field",
+        "confidence": 0.8,
+        "value": "FAISS"
+      },
+      {
+        "field": "skills",
+        "source": "linkedin_profile.json",
+        "method": "linkedin_field",
+        "confidence": 0.8,
+        "value": "Git"
+      },
+      {
+        "field": "skills",
+        "source": "linkedin_profile.json",
+        "method": "linkedin_field",
+        "confidence": 0.8,
+        "value": "MongoDB"
+      },
+      {
+        "field": "skills",
+        "source": "linkedin_profile.json",
+        "method": "linkedin_field",
+        "confidence": 0.8,
+        "value": "MySQL"
+      },
+      {
+        "field": "skills",
+        "source": "recruiter_notes.txt",
+        "method": "notes_keyword_match",
+        "confidence": 0.6,
+        "value": "Python"
+      },
+      {
+        "field": "skills",
+        "source": "recruiter_notes.txt",
+        "method": "notes_keyword_match",
+        "confidence": 0.6,
+        "value": "Machine Learning"
+      },
+      {
+        "field": "skills",
+        "source": "recruiter_notes.txt",
+        "method": "notes_phrase_extraction",
+        "confidence": 0.6,
+        "value": "FAISS"
+      },
+      {
+        "field": "skills",
+        "source": "recruiter_notes.txt",
+        "method": "notes_phrase_extraction",
+        "confidence": 0.6,
+        "value": "LangChain"
+      },
+      {
+        "field": "experience",
+        "source": "resume.txt",
+        "method": "regex_experience_line",
+        "confidence": 0.8,
+        "value": {
+          "company": "iHub-Data, IIIT Hyderabad",
+          "title": "Summer Intern",
+          "start": "2025-05",
+          "end": "2025-08",
+          "summary": "iHub-Data, IIIT Hyderabad - Summer Intern (May 2025 - August 2025)"
+        }
+      },
+      {
+        "field": "experience",
+        "source": "ats_candidate.json",
+        "method": "ats_json_field",
+        "confidence": 1.0,
+        "value": {
+          "company": "iHub-Data, IIIT Hyderabad",
+          "title": "Summer Intern",
+          "start": "2025-05",
+          "end": "2025-08",
+          "summary": "Cataract detection pipeline development"
+        }
+      },
+      {
+        "field": "experience",
+        "source": "recruiter_export.csv",
+        "method": "csv_field",
+        "confidence": 1.0,
+        "value": {
+          "company": "iHub-Data, IIIT Hyderabad",
+          "title": "Summer Intern",
+          "start": null,
+          "end": "Present",
+          "summary": "CSV exported current role: Summer Intern at iHub-Data, IIIT Hyderabad"
+        }
+      },
+      {
+        "field": "experience",
+        "source": "linkedin_profile.json",
+        "method": "linkedin_field",
+        "confidence": 0.9,
+        "value": {
+          "company": "iHub-Data, IIIT Hyderabad",
+          "title": "Summer Intern",
+          "start": "2025-05",
+          "end": "2025-08",
+          "summary": "Ocular disease classification model development."
+        }
+      },
+      {
+        "field": "education",
+        "source": "resume.txt",
+        "method": "regex_education_line",
+        "confidence": 0.8,
+        "value": {
+          "institution": "Chaitanya Bharathi Institute of Technology (CBIT)",
+          "degree": null,
+          "field": null,
+          "end_year": "2027"
+        }
+      },
+      {
+        "field": "education",
+        "source": "resume.txt",
+        "method": "regex_education_line",
+        "confidence": 0.8,
+        "value": {
+          "institution": "Resonance Junior College",
+          "degree": "June 2023",
+          "field": null,
+          "end_year": "2023"
+        }
+      },
+      {
+        "field": "education",
+        "source": "resume.txt",
+        "method": "regex_education_line",
+        "confidence": 0.8,
+        "value": {
+          "institution": "Intermediate (Class XII)",
+          "degree": "97.4%, Hyderabad, India",
+          "field": null,
+          "end_year": null
+        }
+      },
+      {
+        "field": "education",
+        "source": "resume.txt",
+        "method": "regex_education_line",
+        "confidence": 0.8,
+        "value": {
+          "institution": "Gitanjali Devashray",
+          "degree": "March 2021",
+          "field": null,
+          "end_year": "2021"
+        }
+      },
+      {
+        "field": "education",
+        "source": "resume.txt",
+        "method": "regex_education_line",
+        "confidence": 0.8,
+        "value": {
+          "institution": "High School (Class X)",
+          "degree": "90%, Hyderabad, India",
+          "field": null,
+          "end_year": null
+        }
+      },
+      {
+        "field": "education",
+        "source": "ats_candidate.json",
+        "method": "ats_json_field",
+        "confidence": 1.0,
+        "value": {
+          "institution": "Chaitanya Bharathi Institute of Technology (CBIT)",
+          "degree": "B.E.",
+          "field": "Artificial Intelligence and Data Science",
+          "end_year": "2027"
+        }
+      },
+      {
+        "field": "education",
+        "source": "linkedin_profile.json",
+        "method": "linkedin_field",
+        "confidence": 0.9,
+        "value": {
+          "institution": "Chaitanya Bharathi Institute of Technology",
+          "degree": "B.E.",
+          "field": "Artificial Intelligence and Data Science",
+          "end_year": "2027"
+        }
+      },
+      {
+        "field": "projects",
+        "source": "resume.txt",
+        "method": "resume_projects",
+        "confidence": 0.8,
+        "value": {
+          "name": "ML Cataract Analysis",
+          "description": "Built a retinal-image cataract detection system using YOLOv11, TensorFlow, implementing image normalization, augmentation, and region-based learning to capture subtle cataract patterns under varying imaging conditions. Conducted systematic experiments by tuning hyperparameters, input resolutions, training strategies, and analyzing misclassifications to understand model behavior on low-quality and noisy medical images. Processed and validated datasets using annotation refinement, data splitting, precision-recall analysis, identifying error patterns through confusion trends to improve prediction consistency.",
+          "link": "GitHub",
+          "technologies": [
+            "Python",
+            "YOLOv11",
+            "TensorFlow",
+            "OpenCV",
+            "Computer Vision"
+          ]
+        }
+      },
+      {
+        "field": "projects",
+        "source": "resume.txt",
+        "method": "resume_projects",
+        "confidence": 0.8,
+        "value": {
+          "name": "EduDash",
+          "description": "Developed a multi-user academic platform using Next.js, FastAPI, MongoDB Atlas, structuring backend APIs and frontend flows to handle assignments, user roles, and live updates across student-teacher interactions. Built an AI query system with LangChain, FAISS, Sentence Transformers, Gemini AI, enabling retrieval of relevant academic context and generating grounded responses from stored course content. Designed authentication and session handling using Firebase, Google OAuth, JWT, managing user identity, protected routes, and consistent access control across different user roles.",
+          "link": "GitHub",
+          "technologies": [
+            "Next",
+            "js",
+            "FastAPI",
+            "MongoDB Atlas",
+            "LangChain",
+            "FAISS",
+            "Gemini AI",
+            "Firebase"
+          ]
+        }
+      },
+      {
+        "field": "projects",
+        "source": "resume.txt",
+        "method": "resume_projects",
+        "confidence": 0.8,
+        "value": {
+          "name": "Smart Cart",
+          "description": "Built a price comparison system integrating SerpAPI, FastAPI, MongoDB Atlas, aggregating real-time product data from 50+ retailers and structuring responses for fast multi-platform search. Designed a recommendation engine using weighted scoring (price vs rating) and filtering logic, improving best-deal selection with custom ranking algorithms and data normalization. Developed user features with Firebase Authentication, JWT, React, TypeScript, enabling secure login, search history tracking, and analytics-driven insights into user activity.",
+          "link": "GitHub",
+          "technologies": [
+            "Python",
+            "SerpAPI",
+            "FastAPI",
+            "MongoDB Atlas",
+            "Firebase"
+          ]
+        }
+      },
+      {
+        "field": "projects",
+        "source": "github_profile.json",
+        "method": "github_repo",
+        "confidence": 0.8,
+        "value": {
+          "name": "ML Cataract Analysis",
+          "description": "GitHub repository with 4 stars.",
+          "link": "https://github.com/rohanpagadala/ML-Cataract-Analysis",
+          "technologies": [
+            "Python",
+            "HTML"
+          ]
+        }
+      },
+      {
+        "field": "projects",
+        "source": "github_profile.json",
+        "method": "github_repo",
+        "confidence": 0.8,
+        "value": {
+          "name": "EduDash",
+          "description": "GitHub repository with 5 stars.",
+          "link": "https://github.com/rohanpagadala/EduDash",
+          "technologies": [
+            "JavaScript",
+            "HTML"
+          ]
+        }
+      },
+      {
+        "field": "certifications",
+        "source": "resume.txt",
+        "method": "resume_certifications",
+        "confidence": 0.8,
+        "value": {
+          "name": "Salesforce Certified Agentforce Specialist",
+          "issuing_organization": "Salesforce",
+          "year": "2026"
+        }
+      },
+      {
+        "field": "certifications",
+        "source": "resume.txt",
+        "method": "resume_certifications",
+        "confidence": 0.8,
+        "value": {
+          "name": "Microsoft Azure Data Fundamentals (DP-900)",
+          "issuing_organization": "Microsoft",
+          "year": "2025"
+        }
+      },
+      {
+        "field": "certifications",
+        "source": "resume.txt",
+        "method": "resume_certifications",
+        "confidence": 0.8,
+        "value": {
+          "name": "MongoDB Associate Developer",
+          "issuing_organization": "MongoDB",
+          "year": "2025"
+        }
+      },
+      {
+        "field": "certifications",
+        "source": "resume.txt",
+        "method": "resume_certifications",
+        "confidence": 0.8,
+        "value": {
+          "name": "GitHub Foundations",
+          "issuing_organization": "GitHub",
+          "year": "2025"
+        }
+      },
+      {
+        "field": "certifications",
+        "source": "resume.txt",
+        "method": "resume_certifications",
+        "confidence": 0.8,
+        "value": {
+          "name": "Microsoft Azure AI Fundamentals (AI-900)",
+          "issuing_organization": "Microsoft",
+          "year": "2024"
+        }
+      }
+    ],
+    "overall_confidence": 0.96
+  }
+]
