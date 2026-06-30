@@ -428,6 +428,16 @@ Notes: Knows Docker and Kubernetes.
    ```bash
    python3 main.py --inputs data/ --config config.json --output custom_output.json
    ```
+   
+# Running the Project
+
+The Candidate Profile Builder can be executed in two different modes:
+
+# Automatic directory mode
+python3 main.py --inputs data/ --config config.json --output output.json --verbose
+
+# Manual file mode
+python3 main.py input/resume.pdf input/recruiter_notes.txt input/candidate.csv input/ats_export.json --out output/candidate.json
 
 ---
 
