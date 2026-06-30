@@ -1,0 +1,96 @@
+[
+  {
+    "full_name": "ROHAN PAGADALA",
+    "primary_email": "rohan.pagadala15@gmail.com",
+    "phone": "+919059828440",
+    "skills": [
+      "Python",
+      "Javascript",
+      "SQL",
+      "Git",
+      "Machine Learning",
+      "Deep Learning",
+      "Pandas",
+      "NumPy",
+      "TensorFlow",
+      "React",
+      "Html",
+      "R",
+      "FastAPI",
+      "Next.js",
+      "LangChain",
+      "FAISS",
+      "MongoDB",
+      "MySQL"
+    ],
+    "projects": [
+      {
+        "name": "ML Cataract Analysis",
+        "description": "Built a retinal-image cataract detection system using YOLOv11, TensorFlow, implementing image normalization, augmentation, and region-based learning to capture subtle cataract patterns under varying imaging conditions. Conducted systematic experiments by tuning hyperparameters, input resolutions, training strategies, and analyzing misclassifications to understand model behavior on low-quality and noisy medical images. Processed and validated datasets using annotation refinement, data splitting, precision-recall analysis, identifying error patterns through confusion trends to improve prediction consistency.",
+        "technologies": [
+          "Computer Vision",
+          "HTML",
+          "OpenCV",
+          "Python",
+          "TensorFlow",
+          "YOLOv11"
+        ]
+      },
+      {
+        "name": "EduDash",
+        "description": "Developed a multi-user academic platform using Next.js, FastAPI, MongoDB Atlas, structuring backend APIs and frontend flows to handle assignments, user roles, and live updates across student-teacher interactions. Built an AI query system with LangChain, FAISS, Sentence Transformers, Gemini AI, enabling retrieval of relevant academic context and generating grounded responses from stored course content. Designed authentication and session handling using Firebase, Google OAuth, JWT, managing user identity, protected routes, and consistent access control across different user roles.",
+        "technologies": [
+          "FAISS",
+          "FastAPI",
+          "Firebase",
+          "Gemini AI",
+          "HTML",
+          "JavaScript",
+          "LangChain",
+          "MongoDB Atlas",
+          "Next",
+          "js"
+        ]
+      },
+      {
+        "name": "Smart Cart",
+        "description": "Built a price comparison system integrating SerpAPI, FastAPI, MongoDB Atlas, aggregating real-time product data from 50+ retailers and structuring responses for fast multi-platform search. Designed a recommendation engine using weighted scoring (price vs rating) and filtering logic, improving best-deal selection with custom ranking algorithms and data normalization. Developed user features with Firebase Authentication, JWT, React, TypeScript, enabling secure login, search history tracking, and analytics-driven insights into user activity.",
+        "technologies": [
+          "FastAPI",
+          "Firebase",
+          "MongoDB Atlas",
+          "Python",
+          "SerpAPI"
+        ]
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Salesforce Certified Agentforce Specialist",
+        "issuing_organization": "Salesforce",
+        "year": "2026"
+      },
+      {
+        "name": "Microsoft Azure Data Fundamentals (DP-900)",
+        "issuing_organization": "Microsoft",
+        "year": "2025"
+      },
+      {
+        "name": "MongoDB Associate Developer",
+        "issuing_organization": "MongoDB",
+        "year": "2025"
+      },
+      {
+        "name": "GitHub Foundations",
+        "issuing_organization": "GitHub",
+        "year": "2025"
+      },
+      {
+        "name": "Microsoft Azure AI Fundamentals (AI-900)",
+        "issuing_organization": "Microsoft",
+        "year": "2024"
+      }
+    ],
+    "overall_confidence": 0.96
+  }
+]
